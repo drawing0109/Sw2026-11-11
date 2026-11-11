@@ -1,0 +1,6 @@
+{
+  "name": "Apex Dimension",
+  "description": "AI 기반 로그라이크 덱빌딩 & 자원 관리 전략 게임. Google AI Studio (Gemini) 실시간 동적 이벤트와 맞춤형 보스 조우.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
